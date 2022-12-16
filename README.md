@@ -1,3 +1,2 @@
 # my-first-code
-first!
-second line
+I think I will love it :)
